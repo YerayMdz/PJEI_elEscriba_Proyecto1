@@ -342,8 +342,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 110,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -354,8 +354,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 252,
-      "PayloadLength": 42482,
+      "PayloadOffset": 249,
+      "PayloadLength": 42087,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -367,9 +367,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 42831,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 42433,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp2"
@@ -704,10 +704,6 @@
         "Library/PackageCache/com.unity.test-framework@1.1.33/UnityEngine.TestRunner/Utils/Vector4EqualityComparer.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp"
       ],
       "Outputs": [
@@ -2189,7 +2185,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 42996,
+      "PayloadOffset": 42595,
       "PayloadLength": 7355,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2390,9 +2386,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 50459,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 50058,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2403,8 +2399,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 50593,
-      "PayloadLength": 36966,
+      "PayloadOffset": 50189,
+      "PayloadLength": 36571,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -2416,9 +2412,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 87648,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 86849,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp2"
@@ -2733,10 +2729,6 @@
         "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/VertexModifiers/Shadow.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp"
       ],
       "Outputs": [
@@ -2861,7 +2853,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 87805,
+      "PayloadOffset": 87003,
       "PayloadLength": 7893,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3074,9 +3066,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 95814,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 95012,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3087,8 +3079,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 95956,
-      "PayloadLength": 48501,
+      "PayloadOffset": 95151,
+      "PayloadLength": 48106,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -3100,9 +3092,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 144554,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 143354,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp2"
@@ -3492,10 +3484,6 @@
         "Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/UnityTestProtocol/UtpMessageReporter.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp"
       ],
       "Outputs": [
@@ -3564,7 +3552,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 144719,
+      "PayloadOffset": 143516,
       "PayloadLength": 7521,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3769,9 +3757,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 152348,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 151145,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3782,8 +3770,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 152482,
-      "PayloadLength": 34073,
+      "PayloadOffset": 151276,
+      "PayloadLength": 33678,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -3795,9 +3783,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 186644,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 185043,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.rsp2"
@@ -4072,10 +4060,6 @@
         "Library/PackageCache/com.unity.ugui@1.0.0/Editor/UI/ToggleEditor.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.rsp"
       ],
       "Outputs": [
@@ -4149,7 +4133,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 186801,
+      "PayloadOffset": 185197,
       "PayloadLength": 8219,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4370,9 +4354,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 195143,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 193539,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4383,8 +4367,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 195292,
-      "PayloadLength": 31530,
+      "PayloadOffset": 193685,
+      "PayloadLength": 31135,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -4396,9 +4380,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 226926,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 224924,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4641,10 +4625,6 @@
         "Library/PackageCache/com.unity.editorcoroutines@1.0.0/Editor/EditorWindowCoroutineExtension.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.rsp"
       ],
       "Outputs": [
@@ -4701,7 +4681,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 227098,
+      "PayloadOffset": 225093,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4924,9 +4904,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 235528,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 233523,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -4937,8 +4917,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 235689,
-      "PayloadLength": 34274,
+      "PayloadOffset": 233681,
+      "PayloadLength": 33879,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -4950,9 +4930,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 270079,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 267676,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5224,10 +5204,6 @@
         "Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Editor/Units.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.rsp"
       ],
       "Outputs": [
@@ -5266,7 +5242,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 270263,
+      "PayloadOffset": 267857,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5489,9 +5465,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 278675,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 276269,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5502,8 +5478,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 278818,
-      "PayloadLength": 60461,
+      "PayloadOffset": 276409,
+      "PayloadLength": 60066,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -5515,9 +5491,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 339377,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 336573,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6065,10 +6041,6 @@
         "Library/PackageCache/com.unity.collab-proxy@2.6.0/Editor/_Deprecated/WebApi/OrganizationCredentials.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.rsp"
       ],
       "Outputs": [
@@ -6107,7 +6079,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 339543,
+      "PayloadOffset": 336736,
       "PayloadLength": 7844,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6320,9 +6292,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 347499,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 344692,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6333,8 +6305,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 347637,
-      "PayloadLength": 33936,
+      "PayloadOffset": 344827,
+      "PayloadLength": 33541,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -6346,9 +6318,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 381666,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 378461,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.rsp2"
@@ -6619,10 +6591,6 @@
         "Library/PackageCache/com.unity.ide.rider@3.0.31/Rider/Editor/Util/StringUtils.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.rsp"
       ],
       "Outputs": [
@@ -6661,7 +6629,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 381827,
+      "PayloadOffset": 378619,
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6872,9 +6840,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 389699,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 386491,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -6885,8 +6853,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 389840,
-      "PayloadLength": 32237,
+      "PayloadOffset": 386629,
+      "PayloadLength": 31842,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -6898,9 +6866,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 422173,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 418567,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.rsp2"
@@ -7152,10 +7120,6 @@
         "Library/PackageCache/com.unity.settings-manager@2.0.1/Editor/ValueWrapper.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.rsp"
       ],
       "Outputs": [
@@ -7194,7 +7158,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 422337,
+      "PayloadOffset": 418728,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7417,9 +7381,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 430777,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 427168,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7430,8 +7394,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 430948,
-      "PayloadLength": 32996,
+      "PayloadOffset": 427336,
+      "PayloadLength": 32601,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -7443,9 +7407,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 464070,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 460063,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -7699,10 +7663,6 @@
         "Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/CoverageFormats/OpenCover/Model/TrackedMethod.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp"
       ],
       "Outputs": [
@@ -7741,7 +7701,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 464264,
+      "PayloadOffset": 460254,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7964,9 +7924,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 472714,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 468704,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -7977,8 +7937,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 472895,
-      "PayloadLength": 31780,
+      "PayloadOffset": 468882,
+      "PayloadLength": 31385,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -7990,9 +7950,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 504811,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 500403,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8235,10 +8195,6 @@
         "Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/CoverageFormats/OpenCover/Mono.Reflection/MethodBodyReader.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp"
       ],
       "Outputs": [
@@ -8277,7 +8233,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 505015,
+      "PayloadOffset": 500604,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8500,9 +8456,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 513421,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 509010,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8513,8 +8469,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 513558,
-      "PayloadLength": 35089,
+      "PayloadOffset": 509144,
+      "PayloadLength": 34694,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -8526,9 +8482,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 548739,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 543930,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.rsp2"
@@ -8819,10 +8775,6 @@
         "Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_UpdateRegistery.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.rsp"
       ],
       "Outputs": [
@@ -8859,7 +8811,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 548899,
+      "PayloadOffset": 544087,
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9076,9 +9028,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 557052,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 552240,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9089,8 +9041,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 557186,
-      "PayloadLength": 36158,
+      "PayloadOffset": 552371,
+      "PayloadLength": 35763,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -9102,9 +9054,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 593433,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 588223,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.rsp2"
@@ -9409,10 +9361,6 @@
         "Library/PackageCache/com.unity.timeline@1.7.6/Runtime/Utilities/WeightUtility.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.rsp"
       ],
       "Outputs": [
@@ -9449,7 +9397,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 593590,
+      "PayloadOffset": 588377,
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9666,9 +9614,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 601748,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 596535,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9679,8 +9627,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 601887,
-      "PayloadLength": 31890,
+      "PayloadOffset": 596671,
+      "PayloadLength": 31495,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -9692,9 +9640,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.rsp2",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 633871,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 628260,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.rsp2"
@@ -9941,10 +9889,6 @@
         "Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeScriptEditor.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.rsp"
       ],
       "Outputs": [
@@ -9983,7 +9927,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 634033,
+      "PayloadOffset": 628419,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10206,9 +10150,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 642448,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 636834,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10219,8 +10163,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 642594,
-      "PayloadLength": 83653,
+      "PayloadOffset": 636977,
+      "PayloadLength": 83258,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -10232,9 +10176,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 726348,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 720336,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.rsp2"
@@ -10895,10 +10839,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Variables/VariablesSaver.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.rsp"
       ],
       "Outputs": [
@@ -10935,7 +10875,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 726517,
+      "PayloadOffset": 720502,
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11152,9 +11092,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 734681,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 728666,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11165,8 +11105,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 734826,
-      "PayloadLength": 34219,
+      "PayloadOffset": 728808,
+      "PayloadLength": 33824,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -11178,9 +11118,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 769145,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 762732,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11456,10 +11396,6 @@
         "Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/VisualStudioIntegration.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.rsp"
       ],
       "Outputs": [
@@ -11498,7 +11434,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 769313,
+      "PayloadOffset": 762897,
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11709,9 +11645,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 777188,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 770772,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -11722,8 +11658,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 777332,
-      "PayloadLength": 31319,
+      "PayloadOffset": 770913,
+      "PayloadLength": 30924,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -11735,9 +11671,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 808750,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 801936,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.rsp2"
@@ -11978,10 +11914,6 @@
         "Library/PackageCache/com.unity.collab-proxy@2.6.0/Editor/Toolbar/ToolbarButton.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.rsp"
       ],
       "Outputs": [
@@ -12039,7 +11971,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 808917,
+      "PayloadOffset": 802100,
       "PayloadLength": 8380,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12264,9 +12196,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 817426,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 810609,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12277,8 +12209,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 817581,
-      "PayloadLength": 35583,
+      "PayloadOffset": 810761,
+      "PayloadLength": 35188,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -12290,9 +12222,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 853274,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 846059,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -12575,10 +12507,6 @@
         "Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/Utils/JsonUtils.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.rsp"
       ],
       "Outputs": [
@@ -12674,7 +12602,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 853452,
+      "PayloadOffset": 846234,
       "PayloadLength": 8076,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12891,9 +12819,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 861646,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 854428,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -12904,8 +12832,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 861790,
-      "PayloadLength": 35647,
+      "PayloadOffset": 854569,
+      "PayloadLength": 35252,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -12917,9 +12845,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 897536,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 889920,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13207,10 +13135,6 @@
         "Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/TMP_UIStyleManager.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.rsp"
       ],
       "Outputs": [
@@ -13268,7 +13192,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 897703,
+      "PayloadOffset": 890084,
       "PayloadLength": 8374,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13493,9 +13417,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 906192,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 898573,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -13506,8 +13430,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 906333,
-      "PayloadLength": 55262,
+      "PayloadOffset": 898711,
+      "PayloadLength": 54867,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -13519,9 +13443,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 961691,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 953674,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.rsp2"
@@ -14033,10 +13957,6 @@
         "Library/PackageCache/com.unity.timeline@1.7.6/Editor/Window/WindowConstants.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.rsp"
       ],
       "Outputs": [
@@ -14094,7 +14014,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 961855,
+      "PayloadOffset": 953835,
       "PayloadLength": 8371,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14319,9 +14239,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 970353,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 962333,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14332,8 +14252,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 970506,
-      "PayloadLength": 87730,
+      "PayloadOffset": 962483,
+      "PayloadLength": 87335,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -14345,9 +14265,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1058344,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 1049926,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15057,10 +14977,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Windows/WrappedEditorWindow.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.rsp"
       ],
       "Outputs": [
@@ -15118,7 +15034,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1058520,
+      "PayloadOffset": 1050099,
       "PayloadLength": 8383,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15343,9 +15259,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1067023,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 1058602,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15356,8 +15272,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1067169,
-      "PayloadLength": 78959,
+      "PayloadOffset": 1058745,
+      "PayloadLength": 78564,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -15369,9 +15285,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1146229,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 1137410,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16006,10 +15922,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/UnitPreservation.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.rsp"
       ],
       "Outputs": [
@@ -16047,7 +15959,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1146398,
+      "PayloadOffset": 1137576,
       "PayloadLength": 8133,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16266,9 +16178,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1154658,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 1145836,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16279,8 +16191,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1154811,
-      "PayloadLength": 51594,
+      "PayloadOffset": 1145986,
+      "PayloadLength": 51199,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -16292,9 +16204,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1206513,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 1197293,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -16705,10 +16617,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Flow/XFlowGraph.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.rsp"
       ],
       "Outputs": [
@@ -16786,7 +16694,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1206689,
+      "PayloadOffset": 1197466,
       "PayloadLength": 8566,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17015,9 +16923,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1215376,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 1206153,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17028,8 +16936,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1215523,
-      "PayloadLength": 33341,
+      "PayloadOffset": 1206297,
+      "PayloadLength": 32946,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -17041,9 +16949,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1248966,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 1239345,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.rsp2"
@@ -17308,10 +17216,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.State/Units/StateGraphContainerType.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.rsp"
       ],
       "Outputs": [
@@ -17350,7 +17254,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1249136,
+      "PayloadOffset": 1239512,
       "PayloadLength": 8221,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17571,9 +17475,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1257496,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 1247872,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -17584,8 +17488,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1257661,
-      "PayloadLength": 32805,
+      "PayloadOffset": 1248034,
+      "PayloadLength": 32410,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -17597,9 +17501,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1290586,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 1280564,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -17853,10 +17757,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/SettingsProvider/ProjectSettingsProviderView.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp"
       ],
       "Outputs": [
@@ -17936,7 +17836,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1290774,
+      "PayloadOffset": 1280749,
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -18169,9 +18069,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1299652,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 1289627,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18182,8 +18082,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1299806,
-      "PayloadLength": 39574,
+      "PayloadOffset": 1289778,
+      "PayloadLength": 39179,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -18195,9 +18095,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1339489,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 1329066,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -18509,10 +18409,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.State/Transitions/TriggerStateTransitionWidget.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.rsp"
       ],
       "Outputs": [
@@ -18556,7 +18452,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1339666,
+      "PayloadOffset": 1329240,
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -18789,9 +18685,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1348545,
-      "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\AJE2\\Desktop\\PJEI_elE",
+      "PayloadOffset": 1338119,
+      "PayloadLength": 43,
+      "PayloadDebugContentSnippet": "C:\\AJE2_Trimestre1\\PJEI_elEscr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -18802,8 +18698,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1348700,
-      "PayloadLength": 31789,
+      "PayloadOffset": 1338271,
+      "PayloadLength": 31394,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -18815,9 +18711,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1380599,
-      "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\AJE2\\Deskto",
+      "PayloadOffset": 1369775,
+      "PayloadLength": 56,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\AJE2_Trimestre1\\P",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19063,10 +18959,6 @@
         "Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Shared/EmptyGraphWindow.cs",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.rsp"
       ],
       "Outputs": [
@@ -19129,7 +19021,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1380777,
+      "PayloadOffset": 1369950,
       "PayloadLength": 8846,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20173,7 +20065,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity 2022.3.44f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Users\\AJE2\\Desktop\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity 2022.3.44f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity 2022.3.44f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\ScriptAssemblies\" -s=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\AJE2_Trimestre1\\PJEI_elEscriba_Proyecto1\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity 2022.3.44f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -20457,6 +20349,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aEDbg.dag.json",
-  "PayloadsFile": "C:/Users/AJE2/Desktop/PJEI_elEscriba_Proyecto1/Library/Bee/1900b0aEDbg.dag.payloads",
+  "PayloadsFile": "C:/AJE2_Trimestre1/PJEI_elEscriba_Proyecto1/Library/Bee/1900b0aEDbg.dag.payloads",
   "RelativePathToRoot": "../.."
 }
