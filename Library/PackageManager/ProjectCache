@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638720084182530208
-    m_Hash: 4109186842
+      ticks: 638738314182719172
+    m_Hash: 247731357
   m_LockFileStatus:
     m_FilePath: C:/Users/User/Documents/GitHub/PJEI_elEscriba_Proyecto1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638720084382698675
-    m_Hash: 770214394
+      ticks: 638738314182730642
+    m_Hash: 2172801912
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -3105,9 +3105,11 @@ m_ResolvedPackages:
     - 1.1.0
     - 1.1.1
     - 1.2.2
+    - 1.2.3
     compatible:
     - 1.2.2
-    recommended: 1.2.2
+    - 1.2.3
+    recommended: 1.2.3
     deprecated: []
   dependencies: []
   resolvedDependencies: []
