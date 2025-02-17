@@ -41,7 +41,11 @@ The following packages were updated:
   com.unity.timeline from version 1.6.2 to 1.7.6
   com.unity.visualscripting from version 1.7.6 to 1.9.4
 
+<<<<<<< HEAD
 === Thu Jan  9 09:33:38 2025
+=======
+=== Thu Feb  6 11:10:29 2025
+>>>>>>> Props_Edificios
 
 Packages were changed.
 Update Mode: updateDependencies
