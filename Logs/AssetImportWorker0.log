@@ -1,18 +1,10 @@
 Using pre-set license
-<<<<<<< HEAD
 Built from '2022.3/staging' branch; Version is '2022.3.47f1 (88c277b85d21) revision 8962679'; Using compiler version '192829333'; Build Type 'Release'
-=======
-Built from '2022.3/staging' branch; Version is '2022.3.56f1 (dd0c98481d00) revision 14486680'; Using compiler version '192829333'; Build Type 'Release'
->>>>>>> Props_Edificios
 OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'es' Physical Memory: 32173 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-<<<<<<< HEAD
 C:\Program Files\Unity\Hub\Editor\2022.3.47f1\Editor\Unity.exe
-=======
-C:\Program Files\Unity\Hub\Editor\2022.3.56f1\Editor\Unity.exe
->>>>>>> Props_Edificios
 -adb2
 -batchMode
 -noUpm
@@ -23,11 +15,7 @@ C:/Users/User/Documents/GitHub/PJEI_elEscriba_Proyecto1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-<<<<<<< HEAD
-52681
-=======
-61386
->>>>>>> Props_Edificios
+53281
 Successfully changed project path to: C:/Users/User/Documents/GitHub/PJEI_elEscriba_Proyecto1
 C:/Users/User/Documents/GitHub/PJEI_elEscriba_Proyecto1
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -61,32 +49,17 @@ C:/Users/User/Documents/GitHub/PJEI_elEscriba_Proyecto1
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-<<<<<<< HEAD
-Player connection [52912]  Target information:
+Player connection [45432]  Target information:
 
-Player connection [52912]  * "[IP] 172.16.200.225 [Port] 0 [Flags] 2 [Guid] 1452712828 [EditorId] 1452712828 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-N1KUA0K) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [45432]  * "[IP] 172.16.200.225 [Port] 0 [Flags] 2 [Guid] 2787213833 [EditorId] 2787213833 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-N1KUA0K) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [52912] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [52912] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [45432] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [45432] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
-Refreshing native plugins compatible for Editor in 5.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 12.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.47f1 (88c277b85d21)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Resources/UnitySubsystems
-=======
-Player connection [58016]  Target information:
-
-Player connection [58016]  * "[IP] 172.16.200.225 [Port] 0 [Flags] 2 [Guid] 2213821302 [EditorId] 2213821302 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-N1KUA0K) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [58016] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [58016] Host joined alternative multi-casting on [225.0.0.222:34997]...
-Input System module state changed to: Initialized.
-[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
-Refreshing native plugins compatible for Editor in 7.56 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2022.3.56f1 (dd0c98481d00)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.56f1/Editor/Data/Resources/UnitySubsystems
->>>>>>> Props_Edificios
 [Subsystems] Discovering subsystems at path C:/Users/User/Documents/GitHub/PJEI_elEscriba_Proyecto1/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
@@ -94,98 +67,51 @@ Direct3D:
     Renderer: NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2860)
     Vendor:   NVIDIA
     VRAM:     7948 MB
-    Driver:   32.0.15.6614
+    Driver:   32.0.15.7216
 Initialize mono
-<<<<<<< HEAD
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005512 seconds.
-- Loaded All Assemblies, in  0.284 seconds
+Registered in 0.006036 seconds.
+- Loaded All Assemblies, in  0.296 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.230 seconds
-Domain Reload Profiling: 513ms
-	BeginReloadAssembly (83ms)
-=======
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.56f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.56f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.56f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56432
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.56f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.56f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.56f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007790 seconds.
-- Loaded All Assemblies, in  0.442 seconds
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 547 ms
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.829 seconds
-Domain Reload Profiling: 1270ms
-	BeginReloadAssembly (226ms)
->>>>>>> Props_Edificios
+- Finished resetting the current domain, in  0.250 seconds
+Domain Reload Profiling: 546ms
+	BeginReloadAssembly (86ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-<<<<<<< HEAD
 	RebuildCommonClasses (27ms)
-	RebuildNativeTypeToScriptingClass (8ms)
+	RebuildNativeTypeToScriptingClass (9ms)
 	initialDomainReloadingComplete (48ms)
-	LoadAllAssembliesAndSetupDomain (117ms)
-		LoadAssemblies (81ms)
+	LoadAllAssembliesAndSetupDomain (126ms)
+		LoadAssemblies (84ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (116ms)
-			TypeCache.Refresh (114ms)
-				TypeCache.ScanAssembly (101ms)
+		AnalyzeDomain (124ms)
+			TypeCache.Refresh (123ms)
+				TypeCache.ScanAssembly (112ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (231ms)
+	FinalizeReload (251ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (188ms)
+		SetupLoadedEditorAssemblies (209ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (131ms)
-			ProcessInitializeOnLoadMethodAttributes (40ms)
-=======
-	RebuildCommonClasses (28ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (56ms)
-	LoadAllAssembliesAndSetupDomain (121ms)
-		LoadAssemblies (224ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (119ms)
-			TypeCache.Refresh (118ms)
-				TypeCache.ScanAssembly (107ms)
-			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (829ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (791ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (635ms)
-			SetLoadedEditorAssemblies (4ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (108ms)
-			ProcessInitializeOnLoadMethodAttributes (42ms)
->>>>>>> Props_Edificios
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -194,98 +120,52 @@ Domain Reload Profiling: 1270ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-<<<<<<< HEAD
-- Loaded All Assemblies, in  0.510 seconds
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.635 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.509 seconds
-Domain Reload Profiling: 1016ms
-=======
-- Loaded All Assemblies, in  0.559 seconds
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.797 seconds
-Domain Reload Profiling: 1354ms
->>>>>>> Props_Edificios
-	BeginReloadAssembly (129ms)
+- Finished resetting the current domain, in  0.521 seconds
+Domain Reload Profiling: 1154ms
+	BeginReloadAssembly (119ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-<<<<<<< HEAD
 		CreateAndSetChildDomain (18ms)
-	RebuildCommonClasses (27ms)
+	RebuildCommonClasses (26ms)
 	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (37ms)
-	LoadAllAssembliesAndSetupDomain (306ms)
-		LoadAssemblies (248ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (445ms)
+		LoadAssemblies (367ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (137ms)
-			TypeCache.Refresh (121ms)
-				TypeCache.ScanAssembly (109ms)
-			ScanForSourceGeneratedMonoScriptInfo (11ms)
+		AnalyzeDomain (143ms)
+			TypeCache.Refresh (127ms)
+				TypeCache.ScanAssembly (112ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
 			ResolveRequiredComponents (4ms)
-	FinalizeReload (510ms)
+	FinalizeReload (522ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (402ms)
+		SetupLoadedEditorAssemblies (408ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (5ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (2ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (45ms)
+			BeforeProcessingInitializeOnLoad (57ms)
 			ProcessInitializeOnLoadAttributes (317ms)
-			ProcessInitializeOnLoadMethodAttributes (24ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
 			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.36 seconds
-Refreshing native plugins compatible for Editor in 2.06 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 9.06 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3099 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (54.6 KB). Loaded Objects now: 3565.
-Memory consumption went from 119.0 MB to 118.9 MB.
-Total: 4.579900 ms (FindLiveObjects: 0.318800 ms CreateObjectMapping: 0.053800 ms MarkObjects: 4.100100 ms  DeleteObjects: 0.105500 ms)
-=======
-		CreateAndSetChildDomain (21ms)
-	RebuildCommonClasses (25ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (37ms)
-	LoadAllAssembliesAndSetupDomain (354ms)
-		LoadAssemblies (258ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (171ms)
-			TypeCache.Refresh (148ms)
-				TypeCache.ScanAssembly (131ms)
-			ScanForSourceGeneratedMonoScriptInfo (17ms)
-			ResolveRequiredComponents (3ms)
-	FinalizeReload (797ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (638ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (18ms)
-			SetLoadedEditorAssemblies (5ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (55ms)
-			ProcessInitializeOnLoadAttributes (524ms)
-			ProcessInitializeOnLoadMethodAttributes (27ms)
-			AfterProcessingInitializeOnLoad (8ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (10ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 5.54 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3103 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (54.5 KB). Loaded Objects now: 3571.
-Memory consumption went from 119.6 MB to 119.5 MB.
-Total: 3.243600 ms (FindLiveObjects: 0.426700 ms CreateObjectMapping: 0.053600 ms MarkObjects: 2.638700 ms  DeleteObjects: 0.122700 ms)
->>>>>>> Props_Edificios
+Unloading 4208 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (55.9 KB). Loaded Objects now: 4673.
+Memory consumption went from 141.2 MB to 141.1 MB.
+Total: 3.379500 ms (FindLiveObjects: 0.296600 ms CreateObjectMapping: 0.090200 ms MarkObjects: 2.879300 ms  DeleteObjects: 0.111900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -303,108 +183,253 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-<<<<<<< HEAD
-  Time since last request: 530827.577894 seconds.
-  path: Assets/terreno
-  artifactKey: Guid(b66b58ea143788545a295e45e84a06c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/terreno using Guid(b66b58ea143788545a295e45e84a06c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: 'bd352ee32b23df79e4b46339c01d19e9') in 0.002628 seconds
-=======
-  Time since last request: 350107.406976 seconds.
-  path: Assets/Texturas/Casa escriba
-  artifactKey: Guid(2e46838911a4716489b8f84945fcf7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Casa escriba using Guid(2e46838911a4716489b8f84945fcf7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '3d5f045ded4aa0983aea49f3e4dea00f') in 0.003210 seconds
->>>>>>> Props_Edificios
+  Time since last request: 510712.732277 seconds.
+  path: Assets/TIERRA.fbx
+  artifactKey: Guid(f74e453985c7eab4a88a37409f7f4350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TIERRA.fbx using Guid(f74e453985c7eab4a88a37409f7f4350) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'b9cfbecff18bcbffd27a9feba34a3559') in 0.152661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 43.719215 seconds.
+  path: Assets/TIERRA.prefab
+  artifactKey: Guid(74f3db97a39c9794bb987cc206f45f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TIERRA.prefab using Guid(74f3db97a39c9794bb987cc206f45f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '6346885a522044744862a014b584b301') in 0.014034 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 29
+========================================================================
+Received Import Request.
+  Time since last request: 302.648465 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'ae5280ad91af67e2a353905758f96678') in 0.000855 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-<<<<<<< HEAD
-  Time since last request: 0.000369 seconds.
-  path: Assets/terreno/terreno unreal.fbx
-  artifactKey: Guid(2f0eabce680c5b14c9cdb38626c55338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/terreno/terreno unreal.fbx using Guid(2f0eabce680c5b14c9cdb38626c55338) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: 'c62fadcb98b23845f1f21f9e79fa9b4f') in 0.476876 seconds
+  Time since last request: 8.692785 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(90041849b00fed745b22dbbc54cb6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(90041849b00fed745b22dbbc54cb6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'b2f91cff928ba931990c85da24ff34fa') in 0.000585 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 15
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.738710 seconds.
-  path: Assets/textura/M_SimpleSkyDome_EmissiveColor_0.png
-  artifactKey: Guid(4d0e8440aa510ad479c1e00f123e5a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/textura/M_SimpleSkyDome_EmissiveColor_0.png using Guid(4d0e8440aa510ad479c1e00f123e5a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+  Time since last request: 13.164686 seconds.
+  path: Assets/TIERRA
+  artifactKey: Guid(f511698cb65278a489faf1edc5cc7128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TIERRA using Guid(f511698cb65278a489faf1edc5cc7128) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'e3944b6309dad29e2b334d62306feb9e') in 0.000817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.532354 seconds.
+  path: Assets/TIERRA.fbx
+  artifactKey: Guid(f74e453985c7eab4a88a37409f7f4350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TIERRA.fbx using Guid(f74e453985c7eab4a88a37409f7f4350) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '2a296fadb0af99fd828e658680eabf52') in 0.012217 seconds
-=======
-  Time since last request: 19.990397 seconds.
-  path: Assets/Texturas/Casa escriba/casaescriba_diff.png
-  artifactKey: Guid(98f25bf73e4bc474ca0dc760f2c3ffb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Casa escriba/casaescriba_diff.png using Guid(98f25bf73e4bc474ca0dc760f2c3ffb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '8804fdfc168aab0563cce75018ed0438') in 0.081663 seconds
->>>>>>> Props_Edificios
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'c5593d9b50422b0eb92869dee091994c') in 0.050786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 89365.105536 seconds.
+  path: Assets/Hdri
+  artifactKey: Guid(7702d9dce21e3e341817eeb75713873d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hdri using Guid(7702d9dce21e3e341817eeb75713873d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '14d76a8c5cbe004081c92849d311b39c') in 0.019790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.529559 seconds.
+  path: Assets/Hdri/rogland_moonlit_night_4k.exr
+  artifactKey: Guid(1c5fa3aafe136b5489af1ab1fdcffa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hdri/rogland_moonlit_night_4k.exr using Guid(1c5fa3aafe136b5489af1ab1fdcffa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'eaae831164d07ddfe4a01c7727219a30') in 0.402150 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-<<<<<<< HEAD
-  Time since last request: 0.025594 seconds.
-  path: Assets/textura/MI_Bright_Desert_Sand_sjzkfega_8K_MetallicRoughness.png
-  artifactKey: Guid(abb03da815424e645b79386788765344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/textura/MI_Bright_Desert_Sand_sjzkfega_8K_MetallicRoughness.png using Guid(abb03da815424e645b79386788765344) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+  Time since last request: 10.239453 seconds.
+  path: Assets/Hdri/rogland_moonlit_night_4k.exr
+  artifactKey: Guid(1c5fa3aafe136b5489af1ab1fdcffa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hdri/rogland_moonlit_night_4k.exr using Guid(1c5fa3aafe136b5489af1ab1fdcffa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '438bd163e25235e925456bc734685c52') in 0.006346 seconds
-=======
-  Time since last request: 0.000021 seconds.
-  path: Assets/Texturas/Casa escriba/escaleras normal.001.png
-  artifactKey: Guid(991324973d8343449946ba9fabcd708a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Casa escriba/escaleras normal.001.png using Guid(991324973d8343449946ba9fabcd708a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '97f0659332325d85f50a279c0cbd3529') in 0.013716 seconds
->>>>>>> Props_Edificios
+ -> (artifact id: '42452bf8918fec2d726fe3f980d372cd') in 0.121183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 57.632143 seconds.
+  path: Assets/Hdri/rogland_moonlit_night_4k.exr
+  artifactKey: Guid(1c5fa3aafe136b5489af1ab1fdcffa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hdri/rogland_moonlit_night_4k.exr using Guid(1c5fa3aafe136b5489af1ab1fdcffa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '843b91850f9faa5454157a92d30649fb') in 0.158986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 257.165694 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(7564704bd2a9c6a45a7aa95271627797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(7564704bd2a9c6a45a7aa95271627797) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'b8d2f6414070b3d77bad20e267114dc7') in 0.041342 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 169.541547 seconds.
+  path: Assets/Hdri/belfast_sunset_puresky_4k.exr
+  artifactKey: Guid(7a0bdb18c13509b46b841f9b70a3fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hdri/belfast_sunset_puresky_4k.exr using Guid(7a0bdb18c13509b46b841f9b70a3fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '559919556961d84aa0bf18ec8dfcdf71') in 0.019719 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-<<<<<<< HEAD
-  Time since last request: 0.000153 seconds.
-  path: Assets/textura/MI_Bright_Desert_Sand_sjzkfega_8K_Normal.png
-  artifactKey: Guid(77a488b008087144c941adde591e53e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/textura/MI_Bright_Desert_Sand_sjzkfega_8K_Normal.png using Guid(77a488b008087144c941adde591e53e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+  Time since last request: 14.678028 seconds.
+  path: Assets/Hdri/belfast_sunset_puresky_4k.exr
+  artifactKey: Guid(7a0bdb18c13509b46b841f9b70a3fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hdri/belfast_sunset_puresky_4k.exr using Guid(7a0bdb18c13509b46b841f9b70a3fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: 'd3804f0d7a9a2f74a5720d4e5c6b96e1') in 0.010463 seconds
-=======
-  Time since last request: 0.000043 seconds.
-  path: Assets/Texturas/Casa escriba/escalerasescriba_dif.png
-  artifactKey: Guid(d250355af384a4f4d9324fbcb55a4f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Casa escriba/escalerasescriba_dif.png using Guid(d250355af384a4f4d9324fbcb55a4f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '21d0759ff5ae6a2a1bf68f766f112550') in 0.017959 seconds
->>>>>>> Props_Edificios
+ -> (artifact id: '64cc1b288805b059d227e268e98ba984') in 0.063376 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-<<<<<<< HEAD
-  Time since last request: 0.000022 seconds.
-  path: Assets/textura/MI_Bright_Desert_Sand_sjzkfega_8K_BaseColor.png
-  artifactKey: Guid(1e1ea45122048d246b0cf7352b91c9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/textura/MI_Bright_Desert_Sand_sjzkfega_8K_BaseColor.png using Guid(1e1ea45122048d246b0cf7352b91c9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+  Time since last request: 7049.230497 seconds.
+  path: Assets/Casas/CASA 3 (2).prefab
+  artifactKey: Guid(91d90e062a2c3b8478ee18e4f9dbe60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas/CASA 3 (2).prefab using Guid(91d90e062a2c3b8478ee18e4f9dbe60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '3d9e231d2640138db270113684839f80') in 0.006973 seconds
+ -> (artifact id: 'f896b35eef3961143503b2ab10103619') in 0.117096 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-=======
-  Time since last request: 0.000056 seconds.
-  path: Assets/Texturas/Casa escriba/spiedra normal.png
-  artifactKey: Guid(15abcd3d9185f564c99e74ec89c1c45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Casa escriba/spiedra normal.png using Guid(15abcd3d9185f564c99e74ec89c1c45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+Number of asset objects unloaded after import = 64
+========================================================================
+Received Import Request.
+  Time since last request: 3307.629803 seconds.
+  path: Assets/Interfaz
+  artifactKey: Guid(cd386c51ea79c3840bfac6fbf4f73eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interfaz using Guid(cd386c51ea79c3840bfac6fbf4f73eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '4aa6e555e96d404f3bbb5da74994c19c') in 0.005290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 477.164656 seconds.
+  path: Assets/Fonts/King Malik Free Trial.otf
+  artifactKey: Guid(ae71a692e05d3b84a9fc8f37426a4859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/King Malik Free Trial.otf using Guid(ae71a692e05d3b84a9fc8f37426a4859) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
- -> (artifact id: '94439bd49e4e064363aa2d1616ec002e') in 0.009653 seconds
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'd8dbef0ac018bc96d749ec6386c2627d') in 0.122977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 75.665212 seconds.
+  path: Assets/TextMesh Pro/interfaz.exe
+  artifactKey: Guid(c4471d1a3baf8a14281804fea439c6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/interfaz.exe using Guid(c4471d1a3baf8a14281804fea439c6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '962a4722242932fc8fc8558cd421ca2d') in 0.005361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 130.892516 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(b80162dfb92689d45b09dcba36d9545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(b80162dfb92689d45b09dcba36d9545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'fba688584ee12c740d05c88220b421ec') in 0.000964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.973962 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(85650b60b930486459c9ef5cb408a331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(85650b60b930486459c9ef5cb408a331) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '44195519bdc5f77247774e7aa6670935') in 0.000586 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.512124 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'e6feed9e57087d7e441ab94043e07d14') in 0.000651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 123.318297 seconds.
+  path: Assets/Sprites/46310d96f55dcde79727738c81b4bdaa.jpg
+  artifactKey: Guid(bae4c8aaf9fd45e469313bb7b8adc2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/46310d96f55dcde79727738c81b4bdaa.jpg using Guid(bae4c8aaf9fd45e469313bb7b8adc2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '0ffc37da2cb228339e5f027f022b25ad') in 0.110084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/Png_Red_Arrow_File_Short_Right_Arrow_Red_Png_2400_-_Transparent_Red_Arrow_Png__Png_Download_-_vhv-removebg-preview (1).png
+  artifactKey: Guid(085fc74472162bf43a7237c5ea6322ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Png_Red_Arrow_File_Short_Right_Arrow_Red_Png_2400_-_Transparent_Red_Arrow_Png__Png_Download_-_vhv-removebg-preview (1).png using Guid(085fc74472162bf43a7237c5ea6322ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'c61b03ed8414ead65793525863c9c13b') in 0.013863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000645 seconds.
+  path: Assets/Sprites/services-parametres-et-icone-d-engrenage-orange.png
+  artifactKey: Guid(c1290bad111d53248a110a23822d8cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/services-parametres-et-icone-d-engrenage-orange.png using Guid(c1290bad111d53248a110a23822d8cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '10e232a68ccd5a1df47788b2a6ecd066') in 0.011315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Sprites/dae2ab85ba612195ad5f49ba2dc8138e.jpg
+  artifactKey: Guid(971f5b11cc7643e4d8dc1930acea56a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/dae2ab85ba612195ad5f49ba2dc8138e.jpg using Guid(971f5b11cc7643e4d8dc1930acea56a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: '625c3243e8785c195160ad981363b8a3') in 0.015659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Sprites/Ladrillo_6_Degradado_3.png
+  artifactKey: Guid(1698e5fa8ec4489489c73ad3b30eb289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ladrillo_6_Degradado_3.png using Guid(1698e5fa8ec4489489c73ad3b30eb289) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 22 workers.
+ -> (artifact id: 'e2c19158f89e8e23296697982d947dfa') in 0.017133 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
@@ -412,4 +437,3 @@ TcpMessagingSession - receive error: operation aborted. errorcode: 995, details:
 AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
->>>>>>> Props_Edificios
