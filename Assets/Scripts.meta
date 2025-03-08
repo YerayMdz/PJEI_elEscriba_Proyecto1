@@ -1,8 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 2d722ac43ab9e0b4fab3005e88b0a953
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
+=======
+guid: c3a3f5e21c4b73f4082615acb26c2525
+folderAsset: yes
+timeCreated: 1435613876
+licenseType: Store
+DefaultImporter:
+>>>>>>> InteraccionesAldeanos
   userData: 
   assetBundleName: 
   assetBundleVariant: 
