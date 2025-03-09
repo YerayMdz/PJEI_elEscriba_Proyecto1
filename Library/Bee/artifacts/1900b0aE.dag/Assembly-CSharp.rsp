@@ -118,6 +118,7 @@
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"D:/Unity/2022.3.47f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -343,6 +344,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Analytics.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Analytics.ref.dll"
@@ -383,14 +386,17 @@
 -analyzer:"D:/Unity/2022.3.47f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/2022.3.47f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/3D Models/Others/HealthItem/vAnimateUV.cs"
+"Assets/Scripts/AmbientSoundTrigger.cs"
 "Assets/Scripts/ArrowIndicator.cs"
 "Assets/Scripts/BrightnessSlider.cs"
+"Assets/Scripts/CambiarEscena.cs"
 "Assets/Scripts/Camera/vThirdPersonCamera.cs"
 "Assets/Scripts/ChangeScene.cs"
 "Assets/Scripts/CharacterController/vThirdPersonAnimator.cs"
 "Assets/Scripts/CharacterController/vThirdPersonController.cs"
 "Assets/Scripts/CharacterController/vThirdPersonInput.cs"
 "Assets/Scripts/CharacterController/vThirdPersonMotor.cs"
+"Assets/Scripts/Combate.cs"
 "Assets/Scripts/Credits.cs"
 "Assets/Scripts/CustomFootstepSound.cs"
 "Assets/Scripts/DesactivarCredits.cs"
@@ -403,17 +409,25 @@
 "Assets/Scripts/Inventory/InventoryToggle.cs"
 "Assets/Scripts/Inventory/InventoryUI.cs"
 "Assets/Scripts/Inventory/Item.cs"
+"Assets/Scripts/LoadingManager.cs"
+"Assets/Scripts/MaterialChanger.cs"
 "Assets/Scripts/MenuController1.cs"
 "Assets/Scripts/MissionTracker.cs"
 "Assets/Scripts/NPCQuestGiver.cs"
+"Assets/Scripts/PlayerPositionManager.cs"
+"Assets/Scripts/PlayerRespawner.cs"
 "Assets/Scripts/Quest.cs"
 "Assets/Scripts/QuestCameraController.cs"
 "Assets/Scripts/QuestManager.cs"
 "Assets/Scripts/Quit.cs"
+"Assets/Scripts/SceneLoader.cs"
+"Assets/Scripts/Vecino1.cs"
+"Assets/Scripts/Vecino2.cs"
 "Assets/Scripts/VecinosInteraccion/DialogueCameraController.cs"
 "Assets/Scripts/VecinosInteraccion/NPCBubbleText.cs"
 "Assets/Scripts/VolumeControl.cs"
 "Assets/Settings/Project Configuration/SceneTemplate_RotateCube.cs"
+"Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
 /optimize+
