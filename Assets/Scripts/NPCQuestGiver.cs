@@ -14,6 +14,7 @@ public class NPCQuestGiver : MonoBehaviour
     private int currentLine = 0;
     private QuestCameraController cameraController;
     private bool missionAccepted = false;
+    public ArrowIndicator arrowIndicator; // Arrástralo en el Inspector
 
     private void Start()
     {
@@ -84,9 +85,13 @@ public class NPCQuestGiver : MonoBehaviour
             QuestManager.instance.AddQuest(assignedQuest);
             Debug.Log("Misión asignada: " + assignedQuest.questName);
 
+         
+
             missionAccepted = true; // Bloquear interacción hasta que se complete
             MissionTracker.instance.UpdateMissionText("Dirígete al marcador y derrota al enemigo.");
         }
     }
+
+
 }
 
