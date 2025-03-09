@@ -61,12 +61,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CharacterController\vThirdPersonAnimator.cs" />
+    <Compile Include="Assets\Scripts\Inventory\InventorySlot.cs" />
     <Compile Include="Assets\Scripts\ArrowIndicator.cs" />
+    <Compile Include="Assets\Scripts\Inventory\Inventory.cs" />
+    <Compile Include="Assets\Scripts\Inventory\Item.cs" />
     <Compile Include="Assets\Scripts\VecinosInteraccion\NPCBubbleText.cs" />
     <Compile Include="Assets\Scripts\Credits.cs" />
     <Compile Include="Assets\Scripts\Quit.cs" />
     <Compile Include="Assets\Scripts\Generic\Utils\vPickupItem.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
+    <Compile Include="Assets\Scripts\Inventory\InventoryUI.cs" />
+    <Compile Include="Assets\Scripts\CustomFootstepSound.cs" />
     <Compile Include="Assets\Scripts\Camera\vThirdPersonCamera.cs" />
     <Compile Include="Assets\Scripts\Generic\Utils\vExtensions.cs" />
     <Compile Include="Assets\Scripts\QuestManager.cs" />
@@ -81,10 +86,12 @@
     <Compile Include="Assets\Scripts\DesactivarCredits.cs" />
     <Compile Include="Assets\Scripts\VecinosInteraccion\DialogueCameraController.cs" />
     <Compile Include="Assets\Scripts\Generic\Utils\vComment.cs" />
+    <Compile Include="Assets\Scripts\Inventory\InventoryToggle.cs" />
     <Compile Include="Assets\3D Models\Others\HealthItem\vAnimateUV.cs" />
     <Compile Include="Assets\Settings\Project Configuration\SceneTemplate_RotateCube.cs" />
     <Compile Include="Assets\Scripts\CharacterController\vThirdPersonInput.cs" />
     <Compile Include="Assets\Scripts\NPCQuestGiver.cs" />
+    <Compile Include="Assets\Scripts\Inventory\CollectibleItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
