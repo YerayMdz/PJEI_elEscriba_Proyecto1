@@ -1,0 +1,15 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+sysinfo.txt
+.vs/
+*.user
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.apk
+*.unitypackage
